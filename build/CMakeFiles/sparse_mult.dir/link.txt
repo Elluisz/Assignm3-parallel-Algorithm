@@ -1,0 +1,1 @@
+/opt/homebrew/Cellar/gcc/15.1.0/bin/g++-15  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sparse_mult.dir/src/main.cpp.o CMakeFiles/sparse_mult.dir/src/csr_operations.cpp.o CMakeFiles/sparse_mult.dir/src/mtx_loader.cpp.o -o sparse_mult  /opt/homebrew/Cellar/gcc/15.1.0/lib/gcc/current/libgomp.dylib
